@@ -1,0 +1,51 @@
+# Anb.codes
+
+## About me
+
+Hello! I am a computer programmer. I know how to program in HTML, CSS, Javascript, and Typescript. I've used Svelte and Vuejs for creating websites (This site is made with SvelteKit). I'm not as good at C/C++ and Python, but I've written programs with them. I've also experimented with Java, Rust, and Haskell, but I would not really be able to use them to write a program.
+
+I also have some experience with cybersecuity. I've done Cyberstart and participated in the 2021 National Cyber Scholarship Competition, in which I scored 21st.
+
+=> https://www.cyberstartamerica.org/ Cyberstart
+=> https://leaderboard.tomahawque.com/943e22be-870a-11eb-8e55-636337383761/359e5c0b1998ff3e19014cb3b9239f64/ 2021 National Cyber Scholarship Competition
+
+=> /thoughts My thoughts
+=> https://github.com/anbcodes Github
+=> https://www.linkedin.com/in/andrew-baumes-36242a216/ Linkedin
+=> mailto:me@anb.codes Email: me@anb.codes
+=> https://jason1.page/ My younger brother's site
+
+## Personal Projects
+
+### 2021
+
+=> /thoughts Thoughts - Where I write
+=> https://github.com/anbcodes/infosite Old Anb.codes - Written with sveltekit
+=> https://github.com/anbcodes/led-lights Led Light Controller
+=> https://github.com/anbcodes/air1-to-ytmusic Air1 to Youtube Music - Scrape Air1.com and produce a Youtube music playlist
+=> https://github.com/anbcodes/3hr-platformer 3 Hour platformer - A Challenge by my brother
+=> https://chrome.google.com/webstore/detail/htmw-ad-hider/boefgankmlgmcmebohglelhngipmmckm How The Market Works Ad Hider
+=> https://slide-advancer.anb.codes/ Slide Advancer - Use your phone to advance slides of text on your laptop
+=> https://github.com/anbcodes/cyberscripts Cybersecuity Scripts
+
+### 2020
+
+=> https://github.com/anbcodes/timer Stopwatch
+=> https://github.com/anbcodes/advent2020 Advent of Code 2020
+=> https://ani.anb.codes/ Google Docs ANI Chart Analyzer 2.0
+
+### 2019
+
+=> https://school-planner.anb.codes/ School Planner
+=> https://github.com/anbcodes/AdventOfCode2019 Advent of Code 2019
+=> https://naughty-or-nice.anb.codes/ Naughty or Nice List
+=> https://lesson-planner.anb.codes/ Lesson Planner - Basically a copy of School Planner but for teachers
+=> https://multiplication-tables.anb.codes/ Multiplication tables
+=> https://latin-review.anb.codes/ Latin Vocabulary Review
+=> https://latin-charts.anb.codes/ Latin Charts
+=> https://latin-board.anb.codes/ Latin Board
+=> https://simple-online-store.anb.codes/ Simple Online Store
+
+### 2017
+
+=> https://first_site.anb.codes/ My first ever website
